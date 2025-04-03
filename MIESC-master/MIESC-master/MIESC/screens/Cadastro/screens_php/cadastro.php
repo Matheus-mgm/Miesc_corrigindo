@@ -69,7 +69,7 @@ if (isset($_POST['submit'])) {
     <style>
         body {
             font-family: Arial, Helvetica, sans-serif;
-            background-image: linear-gradient(to right, #018DB5, #0E3659);
+            background-color: linear-gradient(to right, #018DB5, #0E3659);
         }
 
         .box {

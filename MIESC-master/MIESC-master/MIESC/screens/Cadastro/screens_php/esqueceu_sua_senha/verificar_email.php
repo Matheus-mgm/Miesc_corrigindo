@@ -1,9 +1,9 @@
 <?php
 // Conectar ao banco de dados (substitua com suas configurações)
-$servername = "sql305.infinityfree.com";
-$username = "if0_36233083";
-$password = "miesc79";
-$dbname = "if0_36233083_textos";
+$servername = "localhost";
+$username = "root";
+$password = "usbw";
+$dbname = "cadastro";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
